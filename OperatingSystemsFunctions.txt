@@ -1,0 +1,5 @@
+Operating System Functions
+
+There are many parts that complete the operating system.  Operating systems act a a bridge of communication between the user and all of the computer hardware.  Some of the 
+important functions of the operatin system are security, device management and memory management.  There are other functions of the operating system but I will focus on these 
+functions. 
