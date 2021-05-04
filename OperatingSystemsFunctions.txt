@@ -3,3 +3,9 @@ Operating System Functions
 There are many parts that complete the operating system.  Operating systems act a a bridge of communication between the user and all of the computer hardware.  Some of the 
 important functions of the operatin system are security, device management and memory management.  There are other functions of the operating system but I will focus on these 
 functions. 
+
+Security
+
+Operating System controls the security of the device.  Security is important becuase it provides protection of resources like the memory disk, software and the CPU.  Security 
+can be made up of several subcategories such as authentication, passwords, program threats and system threats.  There are others but I will discuss these parts.  Authentication
+identifies the user and which program they are authorized to use.  This can be done by username/password, key cards and fingerprint/retina patterns.  
