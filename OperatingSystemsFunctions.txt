@@ -15,3 +15,9 @@ Memory Management
 Memory management is like security in the aspect that it can be broken down into several subcatergories.  Memory management is the process of coordinating the computer memory.
 Memory management also does all the coordinating of the computer memory.  Memory management has a subcategory of segmented memory management, single contiguous allocation, paged
 memory management and memory allocation.  There are other things that go into memory management as well.  
+
+Device Management 
+
+The main purpose of the device management within the operatin system is to manage the communciation with the devices and for each of their drivers.  Device management 
+will keep track of all the devices and any program associated with operating that device.  It monitors the status of each of the driversas well.  Device management 
+will also evaluate the performance of the drive and figure out how to optimize it.
